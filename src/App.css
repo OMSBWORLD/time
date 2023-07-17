@@ -74,6 +74,9 @@
     color: #ffffff;
     line-height: 2;
   }
+  h1{
+    font-size: 25px;
+  }
   .two{
     position: absolute;
     right: 10px;
